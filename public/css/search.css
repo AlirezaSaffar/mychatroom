@@ -1,0 +1,106 @@
+.kol {
+    background: url(https://4kwallpapers.com/images/wallpapers/nebulae-cosmic-stars-dark-blue-dark-background-digital-5120x2880-3926.jpg);
+  }
+  .wellcome {
+   
+    margin-left: calc(56vw - 117px);
+    margin-right: 40vw;
+    text-align: center;
+    color: azure;
+  }
+  .bb {
+    background-color: rgb(146, 121, 226);
+    margin-left: 51vw;
+  
+    width: 6vw;
+  }
+  .wellcom {
+    margin-left: calc(50vw - 117px);
+    color: blanchedalmond;
+    
+    text-align: center;
+  }
+  .wellcom1 {
+    
+    margin-left: calc(53vw - 117px);
+    color: blanchedalmond;
+    
+    text-align: center;
+  }
+  .in {
+    width: 150px;
+  }
+  .homebutton{
+    margin-left: 92%;
+    background-color: rgb(146, 121, 226);
+  }
+  .gohome{
+    margin-left: 4vw;
+    background-color: rgb(146, 121, 226);
+  }
+  @media(width<=1275px){
+    .bb{
+    
+    margin-left: 52vw;
+    width: auto;
+    }
+    .wellcome {
+      
+        margin-left: calc(61vw - 117px);
+        margin-right: 45vw;
+    text-align: center;
+    color: azure;
+    }
+   
+    }
+
+@media(width<=900px){
+.bb{
+
+margin-left: 52vw;
+width: auto;
+}
+.wellcome {
+  
+    margin-left: calc(63vw - 117px);
+    margin-right: 45vw;
+text-align: center;
+color: azure;
+}
+}
+
+@media(width<=720px){
+    .wellcome {
+   
+        margin-left: calc(66.5vw - 117px);
+        margin-right: 44.5vw;
+    text-align: center;
+    color: azure;
+    }
+    }
+    @media(width<=575px){
+        .wellcome {
+      
+            margin-left: calc(69.5vw - 117px);
+            margin-right: 45vw;
+        text-align: center;
+        color: azure;
+        }
+        
+        }
+    
+        @media(width<=388px){
+            .wellcome {
+          
+                margin-left: calc(78vw - 117px);
+                margin-right: 45vw;
+            text-align: center;
+            color: azure;
+            }
+           
+            }
+
+
+
+
+

@@ -1,0 +1,94 @@
+.login
+{
+    text-align: center;
+color: beige;
+margin-left: 49vw;
+
+}
+.kol {
+    background: url(https://asgsr.org/wp-content/uploads/2020/01/iStock-697020460-scaled.jpg);
+}
+.wellcome {
+   
+    margin-left: 45vw;
+    margin-right: 44.5vw;
+text-align: center;
+color: azure;
+}
+.bb {
+
+margin-left: 47vw;
+width: 6vw;
+}
+.wellcom {
+margin-left: calc(50vw - 117px);
+color: blanchedalmond;
+
+text-align: center;
+}
+.in {
+width: 150px;
+}
+
+@media(width<=1275px){
+    .bb{
+    
+    margin-left: 48vw;
+    width: auto;
+    }
+    .wellcome {
+      
+        margin-left: calc(55vw - 117px);
+        margin-right: 45vw;
+    text-align: center;
+    color: azure;
+    }
+   
+    }
+
+@media(width<=900px){
+.bb{
+
+margin-left: 47vw;
+width: auto;
+}
+.wellcome {
+  
+    margin-left: calc(57vw - 117px);
+    margin-right: 45vw;
+text-align: center;
+color: azure;
+}
+}
+
+@media(width<=720px){
+    .wellcome {
+   
+        margin-left: calc(58.5vw - 117px);
+        margin-right: 44.5vw;
+    text-align: center;
+    color: azure;
+    }
+    }
+    @media(width<=575px){
+        .wellcome {
+      
+            margin-left: calc(62vw - 117px);
+            margin-right: 45vw;
+        text-align: center;
+        color: azure;
+        }
+        
+        }
+    
+        @media(width<=388px){
+            .wellcome {
+          
+                margin-left: calc(66vw - 117px);
+                margin-right: 45vw;
+            text-align: center;
+            color: azure;
+            }
+           
+            }
+

@@ -1,0 +1,174 @@
+
+.kol {
+    background: url(https://4kwallpapers.com/images/wallpapers/nebulae-cosmic-stars-dark-blue-dark-background-digital-5120x2880-3926.jpg) fixed;
+}
+       .wellcome {
+    background:rgb(52, 27, 57) ;
+    margin-left: calc(52vw - 117px);
+    margin-right: calc(50vw - 117px);
+text-align: center;
+color: azure;
+}
+.contacts{
+color: beige;
+background:indigo ;
+margin-left: calc(54.25vw - 130px); 
+margin-right: calc(51.75vw - 130px); 
+padding-right: 5%;
+padding-left: 5%;
+font-size: large;
+text-align:center;
+display: flex;
+justify-content: center;
+margin-bottom: 0.05%;
+text-decoration: solid;
+
+
+
+}
+
+
+.contacts:hover{
+    background-color:grey ;
+    margin-left: calc(54vw - 130px); 
+    margin-right: calc(51.5vw - 130px); 
+transition: 0.5s;
+}
+
+
+.homebutton{
+margin-left: 92%;
+background-color: rgb(146, 121, 226);
+}
+.search{
+    color: aqua;
+    margin-left: 5vw;
+}
+
+@media(width<=1250){
+    .contacts{
+        color: beige;
+        background:indigo ;
+        margin-left: calc(58.25vw - 130px); 
+        margin-right: calc(55.75vw - 130px); 
+        padding-right: 5%;
+        padding-left: 5%;
+        font-size: large;
+        text-align:center;
+        display: flex;
+        justify-content: center;
+        margin-bottom: 0.12%;
+        text-decoration: solid;
+        
+        
+        
+        }
+        .contacts:hover{
+            background-color:grey ;
+           
+        transition: 0.5s;
+        }
+
+}
+
+@media(width<=900px){
+    .contacts{
+        color: beige;
+        background:indigo ;
+        margin-left: calc(58.25vw - 130px); 
+        margin-right: calc(55.75vw - 130px); 
+        padding-right: 5%;
+        padding-left: 5%;
+        font-size: large;
+        text-align:center;
+        display: flex;
+        justify-content: center;
+        margin-bottom: 0.12%;
+        text-decoration: solid;
+        
+        
+        
+        }
+        .contacts:hover{
+            background-color:grey ;
+           
+        transition: 0.5s;
+        }
+
+}
+
+@media(width<=600px){
+    .contacts{
+        color: beige;
+        background:indigo ;
+        margin-left: calc(61.25vw - 130px); 
+        margin-right: calc(58.75vw - 130px); 
+        padding-right: 5%;
+        padding-left: 5%;
+        font-size: large;
+        text-align:center;
+        display: flex;
+        justify-content: center;
+        margin-bottom: 0.15%;
+        text-decoration: solid;
+        
+        
+        
+        }
+        .contacts:hover{
+            background-color:grey ;
+           
+        transition: 0.5s;
+        }
+
+}
+
+@media(width<=500px){
+    .contacts{
+        color: beige;
+        background:indigo ;
+        margin-left: calc(63.25vw - 130px); 
+        margin-right: calc(60.75vw - 130px); 
+        padding-right: 5%;
+        padding-left: 5%;
+        font-size: large;
+        text-align:center;
+        display: flex;
+        justify-content: center;
+        margin-bottom: 0.2%;
+        text-decoration: solid;
+        
+        
+        
+        }
+        .contacts:hover{
+            background-color:grey ;
+           
+        transition: 0.5s;
+        }
+
+}
+@media(width<=400px){
+    .contacts{
+        color: beige;
+        background:indigo ;
+        margin-left: calc(66.25vw - 130px); 
+        margin-right: calc(63.75vw - 130px); 
+        padding-right: 5%;
+        padding-left: 5%;
+        font-size: large;
+        text-align:center;
+        display: flex;
+        justify-content: center;
+        margin-bottom: 0.25%;
+        text-decoration: solid;
+        
+        
+        
+        }
+        .contacts:hover{
+            background-color:grey ;
+           
+        transition: 0.5s;
+        }
+}
